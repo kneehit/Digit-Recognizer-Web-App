@@ -1,9 +1,0 @@
-Flask
-gevent
-gunicorn
-keras
-numpy
-h5py
-pillow
-tensorflow
-logging
